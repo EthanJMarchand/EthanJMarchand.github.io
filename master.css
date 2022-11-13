@@ -1,4 +1,7 @@
-.menu {
-  background-color: red;
-  width: 200px;
+li {
+  padding: 20px;
+  list-style-type: none;
+  background-color: #d5d5d5;
+  text-align: center;
+  display: inline-block;
 }
